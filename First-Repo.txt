@@ -2,3 +2,4 @@ First Repo
 - File pertama di Repository pertama saya
 - File ini digunakan untuk belajar GitHub
 - Bismillah
+- Alhamdulillah
