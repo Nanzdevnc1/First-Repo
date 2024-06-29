@@ -1,9 +1,12 @@
 Project's Description
 Nama : 
-  Mr.Nanimz
-NIM : 
-  110112
+  Nanimz
 Age :
   21 (This year) 
 Hobi :
   Olahraga & Coding
+NIM : 
+  112
+Address :
+  Jl. Peltu Sujono Gg. Sri Rejeki
+
