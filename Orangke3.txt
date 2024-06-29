@@ -1,7 +1,8 @@
-Percobaan 
+Percobaan
 Makanan Favorit :
   * Ayam
   * Daging
-  * Telur
+  * Tempe
 Minuman Favorit :
   * Air Putih
+
