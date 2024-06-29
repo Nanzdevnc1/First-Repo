@@ -4,4 +4,5 @@ Makanan Favorit :
   * Daging
   * Tempe
 Minuman Favorit :
-  * Green Thai Tea
+  * Air Putih
+
