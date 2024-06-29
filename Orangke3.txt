@@ -1,1 +1,7 @@
 Percobaan
+Makanan Favorit :
+  * Ayam
+  * Daging
+  * Tempe
+Minuman Favorit :
+  * Green Thai Tea
